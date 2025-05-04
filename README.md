@@ -13,7 +13,7 @@ By extracting acoustic features and leveraging a stacked ensemble model, I achie
 | **Lowest RMSE** | SVR → ET → XGB               |
 | **Highest r**   | SVR (0.888) → ET (0.887)     |
 
-![Cross-Validation RMSE by Model](results/output.png)  
+![Cross-Validation RMSE by Model](output.png)  
 *Base models' RMSE scores (lower is better)*  
 
 ![Pearson Correlation by Model](results/output%20(1).png)  
