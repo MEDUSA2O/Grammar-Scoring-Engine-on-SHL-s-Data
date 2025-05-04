@@ -16,10 +16,10 @@ By extracting acoustic features and leveraging a stacked ensemble model, I achie
 ![Cross-Validation RMSE by Model](output.png)  
 *Base models' RMSE scores (lower is better)*  
 
-![Pearson Correlation by Model](results/output%20(1).png)  
+![Pearson Correlation by Model](output (1).png)  
 *Pearson r values (closer to 1 indicates stronger linear relationship)*  
 
-![Model Performance Trade-off](results/output%20(2).png)  
+![Model Performance Trade-off](output (2).png)  
 **Key Insight**: SVR/ET achieve the best balance of low RMSE and high correlation 
 
 ## Features
